@@ -11,7 +11,7 @@ import java.util.Set;
  */
 public class MazeSolver {
 
-    public List<Integer> findPath(int startPosition, int endPosition, Map<Integer, Set<Integer>> map) {
+    public List<Integer> findPath(int startPosition, int endPosition, Map<Integer, Set<Integer>> maze) {
         return Collections.emptyList();
     }
 }
